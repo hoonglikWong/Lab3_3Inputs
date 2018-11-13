@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab 3_3Inputs</string>
+    <string name="Age">Age</string>
+    <string name="Gender">Gender</string>
+</resources>
